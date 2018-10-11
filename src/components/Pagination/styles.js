@@ -9,13 +9,13 @@ export default StyleSheet.create({
     marginVertical: vertical.xxSmall,
     justifyContent: 'center',
     bottom: 0,
-    left: width * 0.25,
-    right: width * 0.25,
+    left: width * 0.15,
+    right: width * 0.15,
   },
   pagination: {
-    width: horizontal.small,
-    height: horizontal.small,
+    width: horizontal.xxSmall,
+    height: horizontal.xxSmall,
     borderRadius: 25,
-    marginHorizontal: horizontal.xSmall,
+    marginHorizontal: horizontal.xxSmall,
   },
 });

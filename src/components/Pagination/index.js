@@ -19,7 +19,7 @@ export default class Pagination extends PureComponent {
   static defaultProps = {
     data: [],
     paginationIndex: 0,
-    paginationActiveColor: colors.white,
+    paginationActiveColor: colors.maroon,
     paginationDefaultColor: colors.gray,
     paginationStyle: {},
     paginationStyleItem: {},
